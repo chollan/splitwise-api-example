@@ -34,4 +34,4 @@ After this call, if it's successful, then you will have access the account using
 ### Accessing Account Data ###
 In the `api_calls` folder, you will find an example of the `get_expenses` api call.  This will execute with a response code of 200 if everything prior to this was successful.    
 
-*Update:*  I forgot to remoge my project testing url and keys (which won't work now because the application was deleted.)  If you play with this example, be sure to set your keys and application URL.
+**Update:**  I forgot to remoge my project testing url and keys (which won't work now because the application was deleted.)  If you play with this example, be sure to set your keys and application URL.
