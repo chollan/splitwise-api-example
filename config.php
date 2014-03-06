@@ -1,8 +1,9 @@
 <?php
+echo "Set your keys and callback URL before playing with this example!!";exit;
 
-$key = "X9mkOrdaZt53blFUAZBqKGVfRanfooiNEcEoWkg4";
-$secret = "WXbEOZngyXDbKWo3P60hTeq8KT7qsumFbXwukmGy";
-$callback_URL = "http://projects.curtisholland.com/splitwise/process_access_token.php";
+$key = "<<your Key>>";
+$secret = "<<your secret>>";
+$callback_URL = "http://your.project.com/process_access_token.php";
 
 
 // Get the id of the current user which is in your application
